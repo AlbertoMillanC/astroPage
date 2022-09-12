@@ -106,7 +106,7 @@ export function LoginButton ({ redirect }) {
 				window.location.href = `/ticket/${user.userName}`
 			}}>
 				{ticketIcon}
-        ¡Ver mi ticket!
+        ¡Tienda Virtual!
 			</Button>
 		)
 	}
